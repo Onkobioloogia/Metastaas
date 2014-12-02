@@ -228,7 +228,7 @@ style="width:300px;"/>
 
 <iframe width="640" height="390" 
 src="assets/img/movie.mp4#t=45" 
-frameborder="0" allowfullscreen>
+frameborder="0" allowfullscreen autoplay=false>
 </iframe>
 
 <footer class="source">Video: www.metastat.com
