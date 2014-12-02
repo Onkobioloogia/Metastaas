@@ -226,10 +226,12 @@ style="width:300px;"/>
 
 ## Vähirakkude intravaseerumine
 
-<iframe width="640" height="390" 
+<div align="center">
+<video width="640" height="390" 
 src="assets/img/movie.mp4#t=45" 
-frameborder="0" allowfullscreen autoplay=false>
-</iframe>
+controls>
+</video>
+</div>
 
 <footer class="source">Video: www.metastat.com
 </footer>
@@ -247,7 +249,7 @@ frameborder="0" allowfullscreen autoplay=false>
 
 ---
 
-## Metastaatiline latentsus
+# Metastaatilise latentsuse kadu: VCAM-1 vahendatud osteoklastide värbamine
 
 - Rinnavähi mudelis on leitud, et sellisest dormantsusest väljunud luu mikrometastaasid on hakanud ekspresseerima enda pinnal VCAM-1 molekuli [Lu et al., 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241854/).
 - VCAM-1 ekspressioon värbab dormantse vähiraku juurde $\alpha 4 \beta 1$ integriine ekspresseerivad monotsüüdid, mis diferentseeruvad luud lagundavateks osteoklastideks. VCAM-1 on $\alpha 4 \beta 1$ integriini ligand mille kaudu lümfotsüüdid arresteeruvad veresoone pinnal.
@@ -255,6 +257,16 @@ frameborder="0" allowfullscreen autoplay=false>
 
 
 ![vcam1](assets/img/nihms337162f8.jpg)
+
+---
+
+# Metastaatilise latentsuse kadu: sekundaarse koe strooma rakud sekreteerivad tüvirakulisust supresseerivat faktorit
+
+- Rinnavähi kopsumetastaasid hakkavad sekreteerima tüvirakulisust pärssiva TGF-$\beta$ perekonna ligandi **BMP4** blokeerivat faktorit **Coco** [Gao et al., 2012](http://www.sciencedirect.com/science/article/pii/S0092867412008720).
+- Coco ekspressioon neutraliseerib parakriinse BMP ja võimaldab vähirakkude reaktivatsiooni.
+
+![coco](http://ars.els-cdn.com/content/image/1-s2.0-S0092867412008720-fx1.jpg)
+
 
 --- .segue .dark .nobackground
 
