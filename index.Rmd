@@ -543,6 +543,27 @@ Winslow et al., 2011.
 
 ![](assets/img/Metgenes2.png)
 
+
+---&twocol
+
+## Onkogeense signalisatsiooni amplifikatsioon
+# Metastaatilist koloniseerimist soodustavad signaaliradasid võimendavad tunnused
+
+***=left
+
+- VCAM-1 ekspressioon rinnavähirakkudes võimendab PI3K-AKT ellujäämis-signaalirada.
+- SRC-i aktivatsioon muudab rinnavähi rakkudes PI3K-AKT raja tundlikkuks CXCL12 ja IGF-1 stimulatsioonile.
+
+***=right
+
+![src](http://www.cell.com/cms/attachment/2009208220/2031782692/fx1.jpg)
+
+<footer class="source">Pilt: Selection of Bone Metastasis Seeds by Mesenchymal Signals in the Primary Tumor Stroma.
+<a href="http://www.cell.com/abstract/S0092-8674%2813%2900944-6">
+Zhang et al., 2013.
+</a>.
+</footer>
+
 --- .segue .dark .nobackground
 
 ## Lingid eelmistele loengutele
