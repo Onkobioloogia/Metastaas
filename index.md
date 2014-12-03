@@ -60,6 +60,52 @@ strong {
 
 ## Recap
 
+---- &twocol
+
+## Vähi mikrokeskkond
+
+Kasvajarakud ümbritseb kompleksne mikrokeskkond, mis koosneb:
+
+***=left
+
+- normaalsetest rakkudest,
+- sekreteeritud valkudest,
+- füsioloogilistest madalmolekulaarsetest ühenditest (hormoonid),
+- veresoontest.
+
+***=right
+
+<img src="http://www.nature.com/nature/journal/v501/n7467/images/nature12626-f1.jpg" style="width:300px">
+
+<footer class="source">Pilt: Nature.com
+</footer>
+
+---
+
+## Heterotüüpne ligand-retseptor signalisatsioon
+
+- Erinevate rakutüüpide vahelist signaliseerimist nimetatakse **heterotüüpseks signalisatsiooniks**.
+- Heterotüüpne signalisatsioon soodustab või pidurdab kõrvalolevate teiste rakutüüpide jagunemist ja/või ellujäämist.
+
+![recip](assets/img/PDGFA-PDGFR.png)
+
+<footer class="source">Pilt: Retsiprookne PDGF-A ja PDGFR-a ekpsressioon testistes. PDGF-A-d ekspresseerivad tubulaarse epiteeli rakud ja PDGF-R ekspresseerivad mesenhümaalsed rakud. 
+<a href="http://jcb.rupress.org/content/149/5/1019.full"> Gnessi et al., 2000.
+</a>
+</footer>
+
+---
+
+## Epiteliaal-mesenhümaalne transformatsioon (EMT)
+
+- EMT on kartsinoomirakus transientne protsess mille käigus: 
+    - epiteelirakud kaotavad polaarsuse, 
+    - lõhustuvad rakkude vahelised adhesioonid ja 
+    - rakud omandavad amööbse liikumise ja invasiivse võime.
+- Vähi metastaaside teke on seotud EMT-ga.
+- EMT-ga on seotud TGF-$\beta$ indutseeritavad transkriptsioonifaktorid **Twist, Snail, Slug ja ZEB**.
+
+
 --- .segue .dark .nobackground
 
 ## Metastaasid
@@ -237,11 +283,10 @@ Luzzi et al., 1998.
 # Primaarses kasvajas ekspresseeritavad metastaasigeenid annavad vähile
 
 - **lokaalse kasvueelise**: EREG (epiregulin) ja COX2/PTGS2 ekspressioon stimuleerib angiogeneesi. Kollageeni krosslinkivat aktiivsust omav LOX (lüsüül oksüdaas) indutseerib vähirakkude migratsiooni ja angiogeneesi;
-- **distaalse eelise** mingisse kindlasse organisse infiltreerumiseks.
-    - Hüpoksia ja TGF-$\beta$ indutseeritud ANGPL4 indutseerib veresoonte läbilaskvuse ja võimaldab siseneda distaalsesse koesse.
+- **distaalse eelise** mingisse kindlasse organisse infiltreerumiseks: hüpoksia ja TGF-$\beta$ indutseeritud ANGPL4 indutseerib veresoonte läbilaskvuse ja võimaldab siseneda distaalsesse koesse.
 
 
-<img src="assets/img/metastaasigeenid.png" style="width:400px">
+<img src="assets/img/metastaasigeenid.png" style="width:360px">
 
 <footer class="source">Pilt: Metastasis: From dissemination to organ-specific colonization.
 <a href="http://www.nature.com/scitable/content/metastasis-from-dissemination-to-organ-specific-colonization-14019153">
@@ -445,6 +490,12 @@ Yachida et al., 2010.
 --- 
 
 ## Heterotroopsetel interaktsioonidel on oluline roll metastaatilisel koloniseerimisel
+
+- Rinnavähi osteolüütilised metastaasid, kus toimub luukude lagundavate osteoklastide aktivatsioon. Vabaneb terve rida maatriksisse deponeeritud kasvufaktoreid.
+    - Vähirakud sekreteerivad paratüroidhormoon peptiidi (PTHrP) ja mõjutavad seeläbi osteoblaste (luukude ülesehitavad rakud) sekreteerima RANKL ja mitte sekreteerima RANKL *decoy* retseptorit OPG (osteoprotegerin), mis stimuleerib osteoblaste.
+- Rinnavähi ajumetastaasid ekspresseerivad IL1$\beta$, mis aktiveerib astrotsüüdid. Aktiveeritud astrotsüüdid hakkavad ekspresseerima NOTCH ligandi JAGGED, mis stimuleerib omakorda vähirakke ([Xing, 2013](http://embomolmed.embopress.org/content/5/3/384.long)).
+- VCAM-1 vahendatud makrofaagide värbamine rinnavähi luumetastaasides.
+
 
 --- .segue .dark .nobackground
 
