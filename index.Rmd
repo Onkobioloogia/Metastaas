@@ -132,6 +132,18 @@ strong {
 
 ---
 
+## Metastaasi etapid
+
+![mets](http://www.cell.com/cms/attachment/2009273093/2032282111/gr1.jpg)
+
+
+<footer class="source">Pilt: Metastasis Steps and Bottlenecks. Sakari Vanharanta, Joan Massagué, 
+<a href="http://www.cell.com/cancer-cell/fulltext/S1535-6108(13)00417-0">2013
+</a>
+</footer>
+
+---
+
 # Tsütokeratiin positiivsed rinnavähi mikrometastaasid regionaalses lümfisõlmes.
 
 ![](http://img.medscape.com/fullsize/migrated/479/961/ajcp479961.fig1b.jpg)
@@ -142,17 +154,7 @@ Ouellette et al., 2004.
 </a>
 </footer>
 
----
 
-## Metastaasi etapid
-
-![mets](http://www.cell.com/cms/attachment/2009273093/2032282111/gr1.jpg)
-
-
-<footer class="source">Pilt: Metastasis Steps and Bottlenecks. Sakari Vanharanta, Joan Massagué, 
-<a href="http://www.cell.com/cancer-cell/fulltext/S1535-6108(13)00417-0">2013
-</a>
-</footer>
 
 ---&twocol
 
