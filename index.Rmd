@@ -564,14 +564,35 @@ Zhang et al., 2013.
 </a>.
 </footer>
 
----
+--- &twocol
 
 ## Ekspressioonimärklaudade repertuaari laienemine
 # Kolonisatsiooni strateegia, epigeneetiline regulatsioon
 
 - Epigeneetilised muutused nagu histoonide H3K27 demetülatsioon ja DNA demetülatsioon muudavad VHL inaktiveeritud neeruvähis HIF2$\alpha$ märklaudgeenide repertuaari märksa laiemaks: ülesse läheb ka kopsumetastaase soodustavate CXCR4, CYTIP (*Cytohesin 1 Interacting Protein*), LTBP1 ja SLAMF8  geenide ekspressioon ([Vanharanta, 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540187/pdf/nihms421555.pdf)).
 
+***=left
+
 - Rinnavähkides muutub mittekodeeriva RNA HOTAIR toimel H3K27me3 muster nii, et represseeritakse metastaasi-supressorgeenide ekspressioon ([Gupta, 2013](http://www.nature.com/nature/journal/v464/n7291/full/nature08975.html)).
+
+***=right
+
+<img src="assets/img/hotair.png" style="width:300px;"/>
+
+<footer class="source">Pilt: Long non-coding RNA HOTAIR reprograms chromatin state to promote cancer metastasis. Gupta, 2013.
+</footer>
+
+---
+
+## Amplification and Expansion of Oncogenic Pathways as Metastatic Traits
+
+![fitness](http://www.cell.com/cms/attachment/2009273093/2032282109/gr4.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.cell.com/cancer-cell/fulltext/S1535-6108(13)00417-0#">
+Sakari Vanharanta, Joan Massagué, 2013.
+</a>.
+</footer>
 
 --- .segue .dark .nobackground
 
