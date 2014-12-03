@@ -242,6 +242,25 @@ Luzzi et al., 1998.
 
 ---
 
+## Metastaasigeenid
+# Primaarses kasvajas ekspresseeritavad metastaasigeenid annavad vähile
+
+- **lokaalse kasvueelise**: EREG (epiregulin) ja COX2/PTGS2 ekspressioon stimuleerib angiogeneesi. Kollageeni krosslinkivat aktiivsust omav LOX (lüsüül oksüdaas) indutseerib vähirakkude migratsiooni ja angiogeneesi;
+- **distaalse eelise** mingisse kindlasse organisse infiltreerumiseks.
+    - Hüpoksia ja TGF-$\beta$ indutseeritud ANGPL4 indutseerib veresoonte läbilaskvuse ja võimaldab siseneda distaalsesse koesse.
+
+
+<img src="assets/img/metastaasigeenid.png" style="width:400px">
+
+<footer class="source">Pilt: Metastasis: From dissemination to organ-specific colonization.
+<a href="http://www.nature.com/scitable/content/metastasis-from-dissemination-to-organ-specific-colonization-14019153">
+Don X. Nguyen, Paula D. Bos and Joan Massagué, 2009.
+</a>.
+</footer>
+
+
+---
+
 ## Vähirakkude sisenemist vereringesse vahendavad makrofaagid
 
 - Perivaskulaarsed makrofaagid loovad vähis metastaatilise mikrokeskonna (*tumor microenvironment of metastasis*).
