@@ -521,7 +521,8 @@ Xing et al., 2013.
 - Eesnäärmevähi hiire mudelis annavad PTEN ja TP53 inaktivatsioon mitte-agressiivse vähi, kuid lisaks SMAD4 inaktiveerimine viib metastaseeruvate kasvajate tekkeni.
 - Nkx2.1 tuumorsupressori muteerumine muudab KRASG12D-TP53-/- rakud metastaatilisteks.  
 
-![nkx2.1](assets/img/Nkx2-1.png)
+<img src="assets/img/Nkx2-1.png" 
+style="height:200px;"/>
 
 <footer class="source">Pilt: Nkx2-1 vaigistamine kopsuvähi mudelis suurendab KRASG12D-TP53-/- rakkude kolonisatsioonivõimet.
 <a href="http://www.nature.com/nature/journal/v473/n7345/full/nature09881.html">
