@@ -286,6 +286,27 @@ controls>
 <footer class="source">Pilt: wikipedia
 </footer>
 
+---
+
+## Tüüpilised tahkete kasvajate metastaasikohad
+
+Vähitüüp | Põhilised metastaasi kohad
+------------|--------------------------------
+Rind | luu, kopsud, maks ja aju
+Kopsu adenokartsinoom | aju, luud, neerupealsed ja maks
+Naha melanoom | kopsud, aju, nahk, maks
+Käärsool | maks ja kopsud
+Kõhunääre | maks ja kopsud
+Eesnääre | luud
+Sarkoom | kopsud
+Silma melanoom | maks
+
+<footer class="source">Tabel: Metastasis: From dissemination to organ-specific colonization.
+<a href="http://www.nature.com/scitable/content/metastasis-from-dissemination-to-organ-specific-colonization-14019153">
+Don X. Nguyen, Paula D. Bos and Joan Massagué, 2009.
+</a>.
+</footer>
+
 --- &twocol
 
 ## Metastaasi muster: vereringe
@@ -313,7 +334,7 @@ controls>
 
 - Vereringe määrab **soolekasvajate peamise metastaaside sihtpaigana maksa**,
     - 80% soolevähi korduv patsentidest on maksametastaasid. 
-- Maksametastaasid on eelkõige tingitud sellest, et soolestikust lähtuv portaalveen suubub maksa ja **maksa endoteel on fenestreeritud**.
+- Maksametastaasid on eelkõige tingitud sellest, et **soolestikust lähtuv portaalveen suubub maksa** ja **maksa endoteel on fenestreeritud**.
 
 
 ***=left
@@ -401,6 +422,10 @@ Yachida et al., 2010.
 - $\alpha$2,6-sialüültransferaasi ekspressioon põhjustab sialüül-epitoopide ekspressiooni vähiraku pinnal ja võimaldab aju-spetsiifilist infiltratsiooni.
 
 ![](assets/img/nature08021-f4.2.jpg)
+
+--- 
+
+## Heterotroopsetel interaktsioonidel on oluline roll metastaatilisel koloniseerimisel
 
 --- .segue .dark .nobackground
 
