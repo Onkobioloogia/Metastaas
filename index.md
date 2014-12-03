@@ -267,6 +267,82 @@ controls>
 
 ![coco](http://ars.els-cdn.com/content/image/1-s2.0-S0092867412008720-fx1.jpg)
 
+---
+
+## Kliiniline metastaasi muster on eri patsientidel ja vähitüüpidel erinev
+
+- Glioblastoomid metastaseeruvad harva.
+- Medulloblastoomid metastaseeruvad sagedasti.
+- Kopsu- ja kühunäärme kartsinoomid on sagedasti metastaseerunud juba esmasdiagnoosil.
+- Rinna- ja eesnäärmevähid reeglina diagnoosimisel metastaseerunud ei ole.
+- Umbes 10% patsentidel esineb vähke mille algne paige on määramatu (*cancer of unknown primary origin*, *CUP*).
+
+---&twocol
+
+## Metastaaside temporaalne muster
+
+Kliiniliselt on raske määrata, kui kiiresti konkreetne vähk progresseerub primaarsest kasvajast latentsete siirete tekkeni ja sealt nähtavate metastaasideni.
+
+***=left
+
+- Kõhunäärmekasvajad arvati metastaseeruvat progressiooni varases staadiumis, kuid eksoomi sekveneerimine ja matemaatiline modelleerimine viitab pigem, et kõhunäärmekasvajad pigem avastatakse liiga hilja.
+- Rinna ja eesnäärmevähkide puhul tekivad metastaasid vähi arengus vara ja püsivad kaua latentsed.
+
+***=right
+T1: aeg mis kulub pankrease intraepiteliaalse neoplaasia tekkeks (PanIN). PanIN on ivasiivse vähi eellane. Tavaline vanemaealises populatsioonis. 
+
+<img src="http://www.nature.com/nature/journal/v467/n7319/images/nature09515-f3.2.jpg" 
+style="width:460px;"/>
+
+
+<footer class="source">Pilt: Distant metastasis occurs late during the genetic evolution of pancreatic cancer.
+<a href="http://www.nature.com/nature/journal/v467/n7319/full/nature09515.html">
+Yachida et al., 2010.
+</a>.
+</footer>
+
+---&twocol
+
+## Metastaasi mustrid: organid
+
+***=left
+
+- Kasvajad mis annavad metastaase peamiselt ühte organisse:
+    - eesnäärmevähid luudesse;
+    - silma melanoom maksa;
+    - sarkoomid kopsu.
+- Erinevatesse organitesse metastaseeruvad:
+    - kolmik-negatiivsed rinnavähid;
+    - naha melanoomid;
+    - kopsuvähid;
+    - neeruvähid.
+
+***=right
+
+![wiki](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Metastasis_sites_for_common_cancers.svg/640px-Metastasis_sites_for_common_cancers.svg.png)
+
+<footer class="source">Pilt: wikipedia
+</footer>
+
+---&twocol
+
+## Metastaasi muster: vereringe
+
+***=right
+
+- Vereringe määrab soolekasvajate peamise metastaaside sihtpaigana maksa,
+    - 80% soolevähi korduv patsentidest on maksametastaasid. 
+- Maksametastaasid on eelkõige tingitud sellest, et soolestikust lähtuv portaalveen suubub maksa ja maksa endoteel on fenestreeritud.
+
+***=left
+
+<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043550/bin/nihms268780f3.jpg" style="width:460px;">
+
+<footer class="source">Pilt: liver sinusoidal endothelial cell fenestrations.
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043550/">
+Cogger et al., 2010.
+</a>.
+</footer>
 
 --- .segue .dark .nobackground
 
