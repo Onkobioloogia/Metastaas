@@ -173,6 +173,21 @@ Danila et al., 2007.
 </a>
 </footer>
 
+---
+
+## Metastaaside organotropismi määravad faktorid
+
+- Organ-spetsiifilist levikut määravad faktorid.
+    - Vereringe muster.
+    - Endoteeli omadused.
+    - Ellujäämis niššid.
+- Organ-spetsiifilist kolonisatsiooni määravad faktorid.
+    - Latentsus ja reaktivatsioonisignaalid.
+    - Stroomarakkude signalisatsioon.
+    - Teraapia vastus.
+    
+![](assets/img/gr2_lrg.jpg)
+
 ---&twocol
 
 ## Kolonisatsioon on metastaseeruvate vähirakkude peamine pudelikael
@@ -234,6 +249,69 @@ controls>
 </div>
 
 <footer class="source">Video: www.metastat.com
+</footer>
+
+---&twocol
+
+## Metastaasi mustrid: organid
+
+***=left
+
+- Kasvajad mis annavad metastaase peamiselt ühte organisse:
+    - eesnäärmevähid luudesse;
+    - silma melanoom maksa;
+    - sarkoomid kopsu.
+- Erinevatesse organitesse metastaseeruvad:
+    - kolmik-negatiivsed rinnavähid;
+    - naha melanoomid;
+    - kopsuvähid;
+    - neeruvähid.
+
+***=right
+
+![wiki](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Metastasis_sites_for_common_cancers.svg/640px-Metastasis_sites_for_common_cancers.svg.png)
+
+<footer class="source">Pilt: wikipedia
+</footer>
+
+--- &twocol
+
+## Metastaasi muster: vereringe
+
+***=left
+
+![kops](http://www.uic.edu/classes/bios/bios100/lecturesf04am/diagcirc.gif)
+
+***=right
+
+- Kõige esimene organ kuhu südamest välja pumbatav veri jõuab on kopsud.
+- Luuüdis ja maksas olev fenestreeritud endoteel on vähirakkudele vereringest väljumiseks permissiivsem kui muudes organites.
+- Kopsu endoteel on suhteliselt raskemini läbitav ja 
+- kesknärvisüsteemis olev BBB on kõige tugevam barjäär.
+- Ometigi umbes 30% metastaatilistest rinnavähkidest annavad ajumetastaase.
+
+<footer class="source">Pilt: http://www.uic.edu/classes/bios/bios100/lecturesf04am/lect20.htm
+</footer>
+
+---&twocol
+
+## Metastaasi muster: vereringe
+
+***=right
+
+- Vereringe määrab **soolekasvajate peamise metastaaside sihtpaigana maksa**,
+    - 80% soolevähi korduv patsentidest on maksametastaasid. 
+- Maksametastaasid on eelkõige tingitud sellest, et soolestikust lähtuv portaalveen suubub maksa ja **maksa endoteel on fenestreeritud**.
+
+
+***=left
+
+<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043550/bin/nihms268780f3.jpg" style="width:460px;">
+
+<footer class="source">Pilt: liver sinusoidal endothelial cell fenestrations.
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043550/">
+Cogger et al., 2010.
+</a>.
 </footer>
 
 ---
@@ -298,69 +376,6 @@ style="width:460px;"/>
 <footer class="source">Pilt: Distant metastasis occurs late during the genetic evolution of pancreatic cancer.
 <a href="http://www.nature.com/nature/journal/v467/n7319/full/nature09515.html">
 Yachida et al., 2010.
-</a>.
-</footer>
-
----&twocol
-
-## Metastaasi mustrid: organid
-
-***=left
-
-- Kasvajad mis annavad metastaase peamiselt ühte organisse:
-    - eesnäärmevähid luudesse;
-    - silma melanoom maksa;
-    - sarkoomid kopsu.
-- Erinevatesse organitesse metastaseeruvad:
-    - kolmik-negatiivsed rinnavähid;
-    - naha melanoomid;
-    - kopsuvähid;
-    - neeruvähid.
-
-***=right
-
-![wiki](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Metastasis_sites_for_common_cancers.svg/640px-Metastasis_sites_for_common_cancers.svg.png)
-
-<footer class="source">Pilt: wikipedia
-</footer>
-
---- &twocol
-
-## Metastaasi muster: vereringe
-
-***=left
-
-![kops](http://www.uic.edu/classes/bios/bios100/lecturesf04am/diagcirc.gif)
-
-***=right
-
-- Kõige esimene organ kuhu südamest välja pumbatav veri jõuab on kopsud.
-- Luuüdis ja maksas olev fenestreeritud endoteel on vähirakkudele vereringest väljumiseks permissiivsem kui muudes organites.
-- Kopsu endoteel on suhteliselt raskemini läbitav ja 
-- kesknärvisüsteemis olev BBB on kõige tugevam barjäär.
-- Ometigi umbes 30% metastaatilistest rinnavähkidest annavad ajumetastaase.
-
-<footer class="source">Pilt: http://www.uic.edu/classes/bios/bios100/lecturesf04am/lect20.htm
-</footer>
-
----&twocol
-
-## Metastaasi muster: vereringe
-
-***=right
-
-- Vereringe määrab **soolekasvajate peamise metastaaside sihtpaigana maksa**,
-    - 80% soolevähi korduv patsentidest on maksametastaasid. 
-- Maksametastaasid on eelkõige tingitud sellest, et soolestikust lähtuv portaalveen suubub maksa ja **maksa endoteel on fenestreeritud**.
-
-
-***=left
-
-<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043550/bin/nihms268780f3.jpg" style="width:460px;">
-
-<footer class="source">Pilt: liver sinusoidal endothelial cell fenestrations.
-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043550/">
-Cogger et al., 2010.
 </a>.
 </footer>
 
