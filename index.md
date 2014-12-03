@@ -489,13 +489,33 @@ Yachida et al., 2010.
 
 --- 
 
-## Heterotroopsetel interaktsioonidel on oluline roll metastaatilisel koloniseerimisel
+# Heterotroopsetel interaktsioonidel on oluline roll metastaatilisel koloniseerimisel
 
 - Rinnavähi osteolüütilised metastaasid, kus toimub luukude lagundavate osteoklastide aktivatsioon. Vabaneb terve rida maatriksisse deponeeritud kasvufaktoreid.
     - Vähirakud sekreteerivad paratüroidhormoon peptiidi (PTHrP) ja mõjutavad seeläbi osteoblaste (luukude ülesehitavad rakud) sekreteerima RANKL ja mitte sekreteerima RANKL *decoy* retseptorit OPG (osteoprotegerin), mis stimuleerib osteoblaste.
 - Rinnavähi ajumetastaasid ekspresseerivad IL1$\beta$, mis aktiveerib astrotsüüdid. Aktiveeritud astrotsüüdid hakkavad ekspresseerima NOTCH ligandi JAGGED, mis stimuleerib omakorda vähirakke ([Xing, 2013](http://embomolmed.embopress.org/content/5/3/384.long)).
-- VCAM-1 vahendatud makrofaagide värbamine rinnavähi luumetastaasides.
 
+![](assets/img/F2.large.jpg)
+
+<footer class="source">Pilt: IL1b ja rinnavähi ajumetastaaside elulemus.
+<a href="http://embomolmed.embopress.org/content/5/3/384.long">
+Xing et al., 2013.
+</a>.
+</footer>
+
+---
+
+## Metastaasi mutatsioonid on samad mis primaarse vähiga seotud mutatsioonid
+
+- Pankrease vähi metastaatilised kloonid sisaldavad **KRASG12V, MYC ja CCNE1** geenimutatsioone.
+- Neeruvähi metastaasides on muteerunud **TP53, SETD2, KDM5C**.
+- ER-positiivse rinnavähi patsiendil 9 a. peale primaarse vähi eemaldamist tekkinud metastaasides oli peamine mutatsioon **ERBB2** amplifikatsioon.
+- Basaalset tüüpi rinnavähi primaarse paikme ja metastaaside vahel erinesid ainult mutantsete alleelide sagedused.
+
+
+---
+
+![](assets/img/Metgenes2.png)
 
 --- .segue .dark .nobackground
 
