@@ -324,15 +324,35 @@ Yachida et al., 2010.
 <footer class="source">Pilt: wikipedia
 </footer>
 
+--- &twocol
+
+## Metastaasi muster: vereringe
+
+***=left
+
+![kops](http://www.uic.edu/classes/bios/bios100/lecturesf04am/diagcirc.gif)
+
+***=right
+
+- Kõige esimene organ kuhu südamest välja pumbatav veri jõuab on kopsud.
+- Luuüdis ja maksas olev fenestreeritud endoteel on vähirakkudele vereringest väljumiseks permissiivsem kui muudes organites.
+- Kopsu endoteel on suhteliselt raskemini läbitav ja 
+- kesknärvisüsteemis olev BBB on kõige tugevam barjäär.
+- Ometigi umbes 30% metastaatilistest rinnavähkidest annavad ajumetastaase.
+
+<footer class="source">Pilt: http://www.uic.edu/classes/bios/bios100/lecturesf04am/lect20.htm
+</footer>
+
 ---&twocol
 
 ## Metastaasi muster: vereringe
 
 ***=right
 
-- Vereringe määrab soolekasvajate peamise metastaaside sihtpaigana maksa,
+- Vereringe määrab **soolekasvajate peamise metastaaside sihtpaigana maksa**,
     - 80% soolevähi korduv patsentidest on maksametastaasid. 
-- Maksametastaasid on eelkõige tingitud sellest, et soolestikust lähtuv portaalveen suubub maksa ja maksa endoteel on fenestreeritud.
+- Maksametastaasid on eelkõige tingitud sellest, et soolestikust lähtuv portaalveen suubub maksa ja **maksa endoteel on fenestreeritud**.
+
 
 ***=left
 
@@ -343,6 +363,17 @@ Yachida et al., 2010.
 Cogger et al., 2010.
 </a>.
 </footer>
+
+---
+
+## Veresoontest väljumine
+# Veresoontest väljumist soodustavate geenide ekspressioon suurendab vähirakkude laiali kandumist kudedesse ja seega koloniseerimise tõenäosust.
+
+- Rinnavähi aju metastaase näiteks vahendavad COX2, HB-EGF ja ST6GALNAC5 (*α2,6-sialyltransferase*) ([Bos et al., 2009](http://www.nature.com/nature/journal/v459/n7249/full/nature08021.html)).
+- COX2 ja HB-EGF-EGFR ekspressioon annab vähirakule "võimenduse" mitte fenestreeritud endoteeli läbimiseks ja ajukoe koloniseerimiseks.
+- $\alpha$2,6-sialüültransferaasi ekspressioon põhjustab sialüül-epitoopide ekspressiooni vähiraku pinnal ja võimaldab aju-spetsiifilist infiltratsiooni.
+
+![](assets/img/nature08021-f4.2.jpg)
 
 --- .segue .dark .nobackground
 
