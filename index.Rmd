@@ -156,6 +156,31 @@ Ouellette et al., 2004.
 
 ---&twocol
 
+## Metastaaside organotropismi määravad faktorid
+
+![](assets/img/gr2_lrg.jpg)
+
+***=left
+
+- Organ-spetsiifilist levikut määravad faktorid.
+    - Vereringe muster.
+    - Endoteeli omadused.
+    - Ellujäämis niššid.
+
+***=right
+
+- Organ-spetsiifilist kolonisatsiooni määravad faktorid.
+    - Latentsus ja reaktivatsioonisignaalid.
+    - Stroomarakkude signalisatsioon.
+    - Teraapia vastus.
+    
+<footer class="source">Pilt: Metastasis Steps and Bottlenecks. Sakari Vanharanta, Joan Massagué, 
+<a href="http://www.cell.com/cancer-cell/fulltext/S1535-6108(13)00417-0">2013
+</a>
+</footer>
+
+---&twocol
+
 ## Metastaasi ebaefektiivsus
 
 ***=left
@@ -179,31 +204,6 @@ qplot(x=CTC,y=(Patients/120)*100,data=danila,geom="bar",stat="identity") +
 <footer class="source">Pildi andmed: 
 <a href="http://clincancerres.aacrjournals.org/content/13/23/7053.full">
 Danila et al., 2007.
-</a>
-</footer>
-
----&twocol
-
-## Metastaaside organotropismi määravad faktorid
-
-![](assets/img/gr2_lrg.jpg)
-
-***=left
-
-- Organ-spetsiifilist levikut määravad faktorid.
-    - Vereringe muster.
-    - Endoteeli omadused.
-    - Ellujäämis niššid.
-
-***=right
-
-- Organ-spetsiifilist kolonisatsiooni määravad faktorid.
-    - Latentsus ja reaktivatsioonisignaalid.
-    - Stroomarakkude signalisatsioon.
-    - Teraapia vastus.
-    
-<footer class="source">Pilt: Metastasis Steps and Bottlenecks. Sakari Vanharanta, Joan Massagué, 
-<a href="http://www.cell.com/cancer-cell/fulltext/S1535-6108(13)00417-0">2013
 </a>
 </footer>
 

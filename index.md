@@ -156,25 +156,6 @@ Ouellette et al., 2004.
 
 ---&twocol
 
-## Metastaasi ebaefektiivsus
-
-***=left
-
-- Tuumorist lahkub vereringesse igapäevaselt tuhandeid vähirakke.
-- Kliinilise metastaasi moodustavad ainult väga väikene osa vereringesse sisenenud vähirakke.
-
-***=right
-
-![plot of chunk danila](assets/fig/danila-1.png) 
-
-<footer class="source">Pildi andmed: 
-<a href="http://clincancerres.aacrjournals.org/content/13/23/7053.full">
-Danila et al., 2007.
-</a>
-</footer>
-
----&twocol
-
 ## Metastaaside organotropismi määravad faktorid
 
 ![](assets/img/gr2_lrg.jpg)
@@ -195,6 +176,25 @@ Danila et al., 2007.
     
 <footer class="source">Pilt: Metastasis Steps and Bottlenecks. Sakari Vanharanta, Joan Massagué, 
 <a href="http://www.cell.com/cancer-cell/fulltext/S1535-6108(13)00417-0">2013
+</a>
+</footer>
+
+---&twocol
+
+## Metastaasi ebaefektiivsus
+
+***=left
+
+- Tuumorist lahkub vereringesse igapäevaselt tuhandeid vähirakke.
+- Kliinilise metastaasi moodustavad ainult väga väikene osa vereringesse sisenenud vähirakke.
+
+***=right
+
+![plot of chunk danila](assets/fig/danila-1.png) 
+
+<footer class="source">Pildi andmed: 
+<a href="http://clincancerres.aacrjournals.org/content/13/23/7053.full">
+Danila et al., 2007.
 </a>
 </footer>
 
