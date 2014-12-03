@@ -547,7 +547,7 @@ Winslow et al., 2011.
 ---&twocol
 
 ## Onkogeense signalisatsiooni amplifikatsioon
-# Metastaatilist koloniseerimist soodustavad signaaliradasid võimendavad tunnused
+# Kolonisatsiooni strateegia: metastaatilist koloniseerimist soodustavad signaaliradasid võimendavad tunnused
 
 ***=left
 
@@ -563,6 +563,15 @@ Winslow et al., 2011.
 Zhang et al., 2013.
 </a>.
 </footer>
+
+---
+
+## Ekspressioonimärklaudade repertuaari laienemine
+# Kolonisatsiooni strateegia, epigeneetiline regulatsioon
+
+- Epigeneetilised muutused nagu histoonide H3K27 demetülatsioon ja DNA demetülatsioon muudavad VHL inaktiveeritud neeruvähis HIF2$\alpha$ märklaudgeenide repertuaari märksa laiemaks: ülesse läheb ka kopsumetastaase soodustavate CXCR4, CYTIP (*Cytohesin 1 Interacting Protein*), LTBP1 ja SLAMF8  geenide ekspressioon ([Vanharanta, 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540187/pdf/nihms421555.pdf)).
+
+- Rinnavähkides muutub mittekodeeriva RNA HOTAIR toimel H3K27me3 muster nii, et represseeritakse metastaasi-supressorgeenide ekspressioon ([Gupta, 2013](http://www.nature.com/nature/journal/v464/n7291/full/nature08975.html)).
 
 --- .segue .dark .nobackground
 
