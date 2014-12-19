@@ -227,6 +227,12 @@ Ouellette et al., 2004.
 </a>
 </footer>
 
+---
+
+## Metastaasi signalisatsiooni eripärad
+
+
+
 ---&twocol
 
 ## Metastaasi ebaefektiivsus
@@ -587,8 +593,7 @@ Sakari Vanharanta, Joan Massagué, 2013.
 
 --- .segue .dark .nobackground
 
-## Lingid eelmistele loengutele
-
+## Lingid teistele loengutele
 
 --- &twocol 
 
@@ -602,11 +607,15 @@ Sakari Vanharanta, Joan Massagué, 2013.
 - [Signaalirajad](http://tpall.github.io/Signaalirajad)
 - [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
 - [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
-- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+
 
 ***=right 
 
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
 - [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
 - [Tumorigenees](http://tpall.github.io/Tumorigenees)
 - [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
 - [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
+- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Immuunsus](http://tpall.github.io/Immuunsus)
+- [Vähiravimid](http://tpall.github.io/Vahiravim)
