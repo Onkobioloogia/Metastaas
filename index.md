@@ -227,11 +227,6 @@ Ouellette et al., 2004.
 </a>
 </footer>
 
----
-
-## Metastaasi signalisatsiooni eripärad
-
-
 
 ---&twocol
 
