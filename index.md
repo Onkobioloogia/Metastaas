@@ -2,7 +2,7 @@
 title       : Vähi siirded ehk metastaasid 
 subtitle    : Onkobioloogia
 author      : Taavi Päll
-job         : vanemteadur, VTAK
+job         : lektor, TTÜ
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -112,7 +112,9 @@ Kasvajarakud ümbritseb kompleksne mikrokeskkond, mis koosneb:
 
 ---
 
-<q> Vähi kollete levimine algsest primaarsest paikmest keha teistesse osadesse. Selliseid sekundaarseid vähikoldeid nimetatakse <b>vähi siireteks ehk metastaasideks</b>. Vähi siire koosneb rakkudest mis on sarnased vähirakkudele algses paikmes.</q>
+- Vähi kollete levimine algsest primaarsest paikmest keha teistesse osadesse
+- Selliseid sekundaarseid vähikoldeid nimetatakse __vähi siireteks ehk metastaasideks__
+- Vähi siire koosneb rakkudest mis on sarnased vähirakkudele algses paikmes
 
 ---
 
@@ -295,9 +297,40 @@ Don X. Nguyen, Paula D. Bos and Joan Massagué, 2009.
 </a>.
 </footer>
 
+---
+## EMT ja metastaasid: normaalses arengus toimivad geenid
+
+- EMT reguleerivad TF: E47/E2A ja Twist (bHLH), Snail ja Slug (C2H2 zf), FOXC2 (winged helix, forkhead), Goosegoid (paired homeodomain), etc.
+
+![slug](http://d2qiws50qrj9uc.cloudfront.net/content/develop/134/6/1061/F2.large.jpg?width=800&height=600&carousel=1)
+
+  
+<footer class="source">Pilt: dynamic pattern of Lvsnail mRNA expression during sea urchin development. [The Snail repressor is required for PMC ingression in the sea urchin embryo](http://dev.biologists.org/content/134/6/1061)
+</footer>
 
 ---
+## EMT ja metastaasid: Snail, Slug
 
+![snail](http://d2qiws50qrj9uc.cloudfront.net/content/develop/132/14/3151/F3.large.jpg?width=800&height=600&carousel=1)
+
+
+
+<footer class="source">Pilt: Snail genes are a convergence point in EMT induction.
+[The Snail genes as inducers of cell movement and survival: implications in development and cancer](http://dev.biologists.org/content/132/14/3151)
+</footer>
+
+---
+## Snaili märklaudgeenid
+
+![snail2](http://d2qiws50qrj9uc.cloudfront.net/content/develop/132/14/3151/F4.large.jpg?width=800&height=600&carousel=1)
+
+
+
+<footer class="source">Pilt: Downstream targets of Snail.
+[The Snail genes as inducers of cell movement and survival: implications in development and cancer](http://dev.biologists.org/content/132/14/3151)
+</footer>
+
+---
 ## Vähirakkude sisenemist vereringesse vahendavad makrofaagid
 
 - Perivaskulaarsed makrofaagid loovad vähis metastaatilise mikrokeskonna (*tumor microenvironment of metastasis*).
